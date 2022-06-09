@@ -1,7 +1,7 @@
 
 
 # Self Service Machine - Course Vue 
-![App Screenshot](img/vue.png)
+![App Screenshot](img/image.png)
 
 ## Used Stack 
 **Front-end:** VueJS
